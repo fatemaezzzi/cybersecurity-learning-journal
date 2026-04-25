@@ -7,7 +7,7 @@
 ## status
 - started: may 2026
 - current focus: tryhackme pre-security path
-- streak: building
+- streak: not yet started
 
 ---
 
