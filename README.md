@@ -1,6 +1,6 @@
 # cybersecurity-learning-journal
 
-> documenting everything i learn. the wins, the failures, the rabbit holes.
+> Documenting everything i learn. the wins, the failures, the rabbit holes.
 
 ---
 
@@ -13,12 +13,10 @@
 
 ## structure
 
-journal/
-├── tryhackme/        # room writeups and notes
-├── tools/            # tool usage notes
-├── concepts/         # theory and fundamentals
-└── weekly-logs/      # weekly progress summaries
----
+- `tryhackme/` — room writeups and notes
+- `tools/` — tool usage notes  
+- `concepts/` — theory and fundamentals
+- `weekly-logs/` — weekly progress summaries
 
 ## progress tracker
 
