@@ -5,9 +5,9 @@
 ---
 
 ## status
-- started: may 2026
+- started: may 23 2026
 - current focus: tryhackme pre-security path
-- streak: not yet started
+- streak: day 01
 
 ---
 
@@ -22,7 +22,7 @@
 
 | week | focus | rooms done | notes |
 |------|-------|------------|-------|
-| 01 | pre-security path | 0 | starting may 16 2026 |
+| 01 | pre-security path | 3 | offensive + defensive security intro done |
 
 ---
 
