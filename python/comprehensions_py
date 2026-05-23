@@ -1,0 +1,12 @@
+ipaddress = ["192.168.1.10",
+    "172.16.45.2",
+    "192.0.2.55",
+    "10.23.88.91",
+    "192.45.67.123"
+]
+new_ip = [x for x in ipaddress if x.startswith("192")]
+
+print(new_ip)
+
+ip_len = {x: len(x) for x in ipaddress}
+print(ip_len)
