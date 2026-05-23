@@ -1,7 +1,7 @@
 # Day 01 — May 23, 2026
 ## Room: Offensive Security Intro
 ## Room: Defensive Security Intro
-## Careers in CyberSecurity
+## Room: Careers in CyberSecurity
 
 ## What I did
 - Completed the room on TryHackMe
