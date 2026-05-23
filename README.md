@@ -17,6 +17,8 @@
 - `tools/` — tool usage notes  
 - `concepts/` — theory and fundamentals
 - `weekly-logs/` — weekly progress summaries
+- `python/` — scripts
+- `linux/` — command notes and practice
 
 ## progress tracker
 
