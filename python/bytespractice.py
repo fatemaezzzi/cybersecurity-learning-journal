@@ -70,5 +70,7 @@ print(hex(encoded[0]))
 # 104 becomes 'h'
 print(chr(encoded[0]))
 
+
+# decode('utf-8') converts bytes back into a normal string.
 decoded = encoded.decode('utf-8')
 print(decoded)
